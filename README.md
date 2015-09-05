@@ -3,7 +3,7 @@
 This is the native `Tealeaf` platform for iOS devices.
 
 See the [native documentation](http://docs.gameclosure.com/#native).
-##
+##A
 
 ## License
 
